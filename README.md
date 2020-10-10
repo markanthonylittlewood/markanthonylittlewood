@@ -1,4 +1,4 @@
-## [![Mark Littlewood's header](https://github.com/markanthonylittlewood/markanthonylittlewood/blob/master/ghimages/edited%20header.png)](https://marklittlewood.uk)
+## [![Mark Littlewood's header](https://github.com/markanthonylittlewood/markanthonylittlewood/blob/main/ghimages/gh-bannner-light.png)](https://marklittlewood.uk)
 
 ### Hi there 👋
 
